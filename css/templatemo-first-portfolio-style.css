@@ -576,8 +576,6 @@ strong {
 
 .about-image {
   border-radius: var(--border-radius-medium);
-  position: relative;
-  /* top: 10%; */
 }
 
 .about-thumb {
@@ -672,14 +670,14 @@ strong {
   position: absolute;
   bottom: 0;
   right: 0;
-  width: 50%;
-  height: 55%;
+  width: 40%;
+  height: 45%;
   transform: rotate(-35deg) translateY(55px);
   transition: all ease 0.5s;
 }
 
 .services-icon {
-  font-size: 90px;
+  font-size: 80px;
   position: relative;
   bottom: 15px;
 }
